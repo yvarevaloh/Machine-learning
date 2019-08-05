@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-import tensorflow as tf
+from azureml.train.dnn import TensorFlow
 from flask import Flask
 app = Flask(__name__)
 
