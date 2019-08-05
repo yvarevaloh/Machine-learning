@@ -3,8 +3,8 @@ from flask import Flask, request
 #import spacy
 #from spacy import displacy
 from collections import Counter
-import en_core_web_sm
-nlp = en_core_web_sm.load()
+#import en_core_web_sm
+#nlp = en_core_web_sm.load()
 
 import numpy as np
 from flask import jsonify
