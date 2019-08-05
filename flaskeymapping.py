@@ -1,5 +1,5 @@
 from flask import Flask, request
-from nltk.tokenize import sent_tokenize, word_tokenize
+#from nltk.tokenize import sent_tokenize, word_tokenize
 import spacy
 from spacy import displacy
 from collections import Counter
