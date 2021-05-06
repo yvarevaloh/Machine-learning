@@ -70,7 +70,7 @@ fastcache==1.0.2
 filelock==3.0.10
 Flask==1.0.2
 Flask-API==1.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-Ext==0.1
 Flask-SQLAlchemy==2.4.0
 future==0.17.1
