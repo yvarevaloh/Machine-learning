@@ -215,7 +215,7 @@ pylint==2.2.2
 pyodbc==4.0.25
 pyOpenSSL==18.0.0
 pyparsing==2.1.10
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==223
 pyquickhelper==1.9.3100
 PySocks==1.6.8
