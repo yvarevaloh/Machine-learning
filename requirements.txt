@@ -57,7 +57,7 @@ datashape==0.5.4
 de-core-news-sm==2.1.0
 decorator==4.3.0
 defusedxml==0.5.0
-distributed==1.25.1
+distributed==2021.10.0
 distro==1.4.0
 docformatter==1.1
 docutils==0.14
