@@ -3,7 +3,7 @@
 
 # In[ ]:
 
-import tensorflow as tf
+import tensorflow as tfs
 from flask import Flask
 app = Flask(__name__)
 
